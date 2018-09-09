@@ -1,4 +1,4 @@
-# Best Pracice to Hash Password and store in database?
+# Best Practice to Hash Password and store in database?
 
 ## Approach
 Use hashing instead of encryption to store the passwords as hashing is one-way while encryption is not.
